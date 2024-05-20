@@ -1,0 +1,85 @@
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.deps.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\ref\PazYSalvoAPP.Business.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CopyComplete
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.deps.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalv.BE8FB390.Up2Date
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\ref\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.deps.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CopyComplete
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\ref\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.deps.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CopyComplete
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\ref\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.deps.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.AssemblyInfo.cs
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.csproj.CopyComplete
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\refint\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.Business\obj\Debug\net7.0\ref\PazYSalvoAPP.Business.dll

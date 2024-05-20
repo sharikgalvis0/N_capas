@@ -1,0 +1,410 @@
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.staticwebassets.runtime.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.exe
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.deps.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.PazYSalvoAPP.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PazYSalvoAPP.WebApp.props
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PazYSalvoAPP.WebApp.props
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PazYSalvoAPP.WebApp.props
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\bundle\PazYSalvoAPP.WebApp.styles.css
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\projectbundle\PazYSalvoAPP.WebApp.bundle.scp.css
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\refint\PazYSalvoAPP.WebApp.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\ref\PazYSalvoAPP.WebApp.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Usuario\Documents\Proyectos\Articles\Proyectos\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.staticwebassets.runtime.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.exe
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.deps.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.runtimeconfig.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfo.cs
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cs
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.PazYSalvoAPP.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PazYSalvoAPP.WebApp.props
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PazYSalvoAPP.WebApp.props
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PazYSalvoAPP.WebApp.props
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\bundle\PazYSalvoAPP.WebApp.styles.css
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\projectbundle\PazYSalvoAPP.WebApp.bundle.scp.css
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalv.B3A2CB05.Up2Date
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\refint\PazYSalvoAPP.WebApp.dll
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.genruntimeconfig.cache
+C:\Users\TOSHIBA\Downloads\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\ref\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.staticwebassets.runtime.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.exe
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.deps.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.runtimeconfig.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.PazYSalvoAPP.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\bundle\PazYSalvoAPP.WebApp.styles.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\projectbundle\PazYSalvoAPP.WebApp.bundle.scp.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CopyComplete
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\refint\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.genruntimeconfig.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo-master (1)\PazYSalvo-master\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\ref\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.staticwebassets.runtime.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.exe
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.deps.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.runtimeconfig.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cs
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.PazYSalvoAPP.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\bundle\PazYSalvoAPP.WebApp.styles.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\projectbundle\PazYSalvoAPP.WebApp.bundle.scp.css
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CopyComplete
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\refint\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.genruntimeconfig.cache
+C:\Users\Shari Galvis\Downloads\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\ref\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.staticwebassets.runtime.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.exe
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.deps.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.runtimeconfig.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Business.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Models.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\bin\Debug\net7.0\PazYSalvoAPP.Data.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.AssemblyReference.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfoInputs.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.AssemblyInfo.cs
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.RazorAssemblyInfo.cs
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.PazYSalvoAPP.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PazYSalvoAPP.WebApp.props
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\bundle\PazYSalvoAPP.WebApp.styles.css
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\scopedcss\projectbundle\PazYSalvoAPP.WebApp.bundle.scp.css
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.csproj.CopyComplete
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\refint\PazYSalvoAPP.WebApp.dll
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.pdb
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\PazYSalvoAPP.WebApp.genruntimeconfig.cache
+C:\Users\Shari Galvis\Documents\PazYSalvo\PazYSalvo\PazYSalvoAPP\PazYSalvoAPP.WebApp\obj\Debug\net7.0\ref\PazYSalvoAPP.WebApp.dll

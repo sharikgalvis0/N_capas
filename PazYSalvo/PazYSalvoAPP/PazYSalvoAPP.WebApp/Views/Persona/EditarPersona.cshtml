@@ -1,0 +1,44 @@
+﻿@using PazYSalvoAPP.Models;
+
+@model PazYSalvoAPP.WebApp.Models.ViewModels.PersonaViewModel
+
+@{
+}
+
+<h2>Editar persona</h2>
+<div class="frmContainer">
+    <form method="post" asp-action="ActualizarPersona" asp-controller="Persona" id="frmEditarPersona" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <input type="hidden" class="form-control" id="Id" name="Id" value="@Model.Id">
+        </div>
+
+        <div class="form-group">
+            <label for="Nombres">Nombres</label>
+            <input type="text" class="form-control" id="Nombres" name="Nombres" value="@(Model.Nombres)">
+        </div>
+        <br />
+        <div class="form-group">
+            <label for="Telefono">Telefono</label>
+            <input type="number" class="form-control" id="Telefono" name="Telefono" value="@(Model.Telefono)">
+        </div>
+        <br />
+        <div class="form-group">
+            <label for="CorreoElectronico">CorreoElectronico</label>
+            <input type="email" class="form-control" id="CorreoElectronico" name="CorreoElectronico" value="@(Model.CorreoElectronico)">
+        </div>
+        <br />
+        <div class="form-group">
+            <label for="DocumentoIdentificacion">DocumentoIdentificacion</label>
+            <input type="number" class="form-control" id="DocumentoIdentificacion" name="DocumentoIdentificacion" value="@(Model.DocumentoIdentificacion)">
+        </div>
+        <br />
+
+        <br />
+
+        <div class="modal-footer">
+            <a type="button" class="btn btn-secondary" href="@Url.Action("Index", "Persona")">Volver</a>
+            <button type="submit" class="btn btn-primary" id="btnActualizarPersona">Actualizar</button>
+        </div>
+    </form>
+</div>

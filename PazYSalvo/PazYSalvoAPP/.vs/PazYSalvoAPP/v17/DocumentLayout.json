@@ -1,0 +1,1079 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\personas\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\personas\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\pagos\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\pagos\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\roles\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\roles\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\mediosdepago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\mediosdepago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\mediosdepagos\\mediosdepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\mediosdepagos\\mediosdepagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\mediosdepago\\editarmediosdepago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\mediosdepago\\editarmediosdepago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\persona\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\persona\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\mediosdepago\\_listadodemediosdepagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\mediosdepago\\_listadodemediosdepagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\persona\\_listadodepersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\persona\\_listadodepersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\mediosdepagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\mediosdepagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\facturaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\facturaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\imediosdepagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\imediosdepagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\mediosdepagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\mediosdepagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\mediosdepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\mediosdepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\estados\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\estados\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\pago\\editarpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\pago\\editarpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\pago\\_listadodepagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\pago\\_listadodepagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\pagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\pagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\pagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\ipagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\ipagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\servicios\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\servicios\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\role\\_listadoderoles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\role\\_listadoderoles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\role\\editarrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\role\\editarrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\cliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\usuario\\editarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\usuario\\editarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\usuarios\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\usuarios\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\servicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\usuario\\_listadodeusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\usuario\\_listadodeusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\factura\\_listadodefacturas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\factura\\_listadodefacturas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\servicio\\editarservicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\servicio\\editarservicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\views\\servicio\\_listadodeservicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\views\\servicio\\_listadodeservicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\controllers\\facturas\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\controllers\\facturas\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\servicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\servicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\models\\viewmodels\\estadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\models\\viewmodels\\estadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87DD4A8-5A32-4B2A-A0BE-6020F3A29EDF}|PazYSalvoAPP.Models\\PazYSalvoAPP.Models.csproj|solutionrelative:pazysalvoapp.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.business\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7F7DEF-8FAC-47C0-9CE5-420D25D7DA58}|PazYSalvoAPP.Business\\PazYSalvoAPP.Business.csproj|solutionrelative:pazysalvoapp.business\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.webapp\\scripts\\factura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{25EFBD40-027A-4D37-A2CC-33D2BEE05A81}|PazYSalvoAPP.WebApp\\PazYSalvoAPP.WebApp.csproj|solutionrelative:pazysalvoapp.webapp\\scripts\\factura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CA893B-7B34-421F-A517-784FA3132A87}|PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj|c:\\users\\toshiba\\downloads\\pazysalvo-master\\pazysalvoapp\\pazysalvoapp.data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CA893B-7B34-421F-A517-784FA3132A87}|PazYSalvoAPP.Data\\PazYSalvoAPP.Data.csproj|solutionrelative:pazysalvoapp.data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Role.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Role.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Role.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:20:51.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Personas\\PersonaController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Personas\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Personas\\PersonaController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Personas\\PersonaController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:19:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Pago\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Pago\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:16:48.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Pagos\\PagoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Pagos\\PagoController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Pagos\\PagoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Pagos\\PagoController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:45:04.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T03:16:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T00:32:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Roles\\RoleController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Roles\\RoleController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Roles\\RoleController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Roles\\RoleController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:30:45.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:43:14.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MediosDePagoController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\MediosDePagos\\MediosDePagoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\MediosDePagos\\MediosDePagoController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\MediosDePagos\\MediosDePagoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\MediosDePagos\\MediosDePagoController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:56:18.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T04:59:31.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Program.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditarMediosDePago.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\EditarMediosDePago.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\EditarMediosDePago.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\EditarMediosDePago.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\EditarMediosDePago.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T05:32:09.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditarPersona.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\EditarPersona.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Persona\\EditarPersona.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\EditarPersona.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Persona\\EditarPersona.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:39:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ListadoDePersonas.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\_ListadoDePersonas.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Persona\\_ListadoDePersonas.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Persona\\_ListadoDePersonas.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Persona\\_ListadoDePersonas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T23:18:47.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ListadoDeMediosDePagos.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\_ListadoDeMediosDePagos.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\_ListadoDeMediosDePagos.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\MediosDePago\\_ListadoDeMediosDePagos.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\MediosDePago\\_ListadoDeMediosDePagos.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T02:21:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MediosDePagoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\MediosDePagoViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\MediosDePagoViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\MediosDePagoViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\MediosDePagoViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:07:55.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacturaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\FacturaViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\FacturaViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\FacturaViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\FacturaViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:16:42.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T22:48:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMediosDePagoService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IMediosDePagoService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IMediosDePagoService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IMediosDePagoService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IMediosDePagoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:56:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MediosDePagoService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\MediosDePagoService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\MediosDePagoService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\MediosDePagoService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\MediosDePagoService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:58:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Pago.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Pago.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Pago.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:32:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\PersonaService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\PersonaService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:29:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Persona.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:19:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MediosDePago.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\MediosDePago.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\MediosDePago.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\MediosDePago.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\MediosDePago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:32:29.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Estado.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Estado.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Estado.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Estado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:38:16.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ListadoDePagos.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\_ListadoDePagos.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Pago\\_ListadoDePagos.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\_ListadoDePagos.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Pago\\_ListadoDePagos.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T03:09:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IPersonaService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IPersonaService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IPersonaService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IPersonaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:02:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Estados\\EstadoController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Estados\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Estados\\EstadoController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Estados\\EstadoController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:43:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Estado\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T03:45:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditarPago.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\EditarPago.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Pago\\EditarPago.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Pago\\EditarPago.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Pago\\EditarPago.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T03:32:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagoService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\PagoService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\PagoService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\PagoService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\PagoService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:35:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PagoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\PagoViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\PagoViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\PagoViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\PagoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:43:04.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPagoService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IPagoService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IPagoService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IPagoService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IPagoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:34:33.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ListadoDeRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\_ListadoDeRoles.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Role\\_ListadoDeRoles.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\_ListadoDeRoles.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Role\\_ListadoDeRoles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T00:54:06.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Servicios\\ServicioController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Servicios\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Servicios\\ServicioController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Servicios\\ServicioController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Cliente\\EditarCliente.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Cliente\\EditarCliente.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Cliente\\EditarCliente.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Cliente\\EditarCliente.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T01:18:21.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditarRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\EditarRole.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Role\\EditarRole.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Role\\EditarRole.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Role\\EditarRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T01:18:10.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:27:44.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\RoleService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\RoleService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwFMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:16:18.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IRoleService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T00:13:17.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:30:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Usuarios\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Usuarios\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Usuarios\\UsuarioController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Usuarios\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:27:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\EditarUsuario.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Usuario\\EditarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\EditarUsuario.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Usuario\\EditarUsuario.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:28:32.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ListadoDeFacturas.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Factura\\_ListadoDeFacturas.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Factura\\_ListadoDeFacturas.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Factura\\_ListadoDeFacturas.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Factura\\_ListadoDeFacturas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T06:11:57.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ListadoDeUsuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\_ListadoDeUsuarios.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Usuario\\_ListadoDeUsuarios.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Usuario\\_ListadoDeUsuarios.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Usuario\\_ListadoDeUsuarios.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:53:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Servicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\Index.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Servicio\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:06:43.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Usuario.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Usuario.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:00:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:24:50.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:01:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:15:28.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditarServicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\EditarServicio.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Servicio\\EditarServicio.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\EditarServicio.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Servicio\\EditarServicio.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:42:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ListadoDeServicios.cshtml",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\_ListadoDeServicios.cshtml",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Views\\Servicio\\_ListadoDeServicios.cshtml",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Views\\Servicio\\_ListadoDeServicios.cshtml",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Views\\Servicio\\_ListadoDeServicios.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T04:27:24.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Facturas\\FacturaController.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Controllers\\Facturas\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Controllers\\Facturas\\FacturaController.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Controllers\\Facturas\\FacturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:38:09.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\FacturaService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\FacturaService.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwG4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:40:06.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ServicioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\ServicioViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\ServicioViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\ServicioViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\ServicioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IServicioService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IServicioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IFacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IFacturaService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IFacturaService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IFacturaService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IFacturaService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:39:04.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ClienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\ClienteViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\ClienteViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\ClienteViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\ClienteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:48:45.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EstadoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\EstadoViewModel.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\EstadoViewModel.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\Models\\ViewModels\\EstadoViewModel.cs",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\Models\\ViewModels\\EstadoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:59:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Models\\Cliente.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Models\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:47:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\ClienteService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:40:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\IClienteService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:38:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EstadoService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\EstadoService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\EstadoService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\EstadoService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\EstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Factura.js",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\scripts\\Factura.js",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.WebApp\\scripts\\Factura.js",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.WebApp\\scripts\\Factura.js",
+              "RelativeToolTip": "PazYSalvoAPP.WebApp\\scripts\\Factura.js",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-28T04:27:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Business\\Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Business\\Services\\ServicioService.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Business\\Services\\ServicioService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Data\\Repositories\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "PazYSalvoAPP.Data\\Repositories\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\PazYSalvo-master\\PazYSalvoAPP\\PazYSalvoAPP.Data\\Repositories\\FacturaRepository.cs",
+              "RelativeToolTip": "PazYSalvoAPP.Data\\Repositories\\FacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:27:24.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
